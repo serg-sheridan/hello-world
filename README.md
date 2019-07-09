@@ -1,9 +1,7 @@
 # hello-world
-Description (optional): 
+Description: Srdjan Scepanovic / 991 141 264 / serg-sheridan (GIT) scepanos (SHR) / Trafalgar Sheridan
 
-Srdjan Scepanovic / 991 141 264 / serg-sheridan (GIT) scepanos (SHR) / Trafalgar Sheridan
 
--
 
 In the README.md file, include the following:
 
