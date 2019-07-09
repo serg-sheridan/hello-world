@@ -1,5 +1,5 @@
 # hello-world
-Description: Srdjan Scepanovic / 991 141 264 / serg-sheridan (GIT) scepanos (SHR) / Trafalgar Sheridan
+Srdjan Scepanovic / 991 141 264 / serg-sheridan (GIT) scepanos (SHR) / Trafalgar Sheridan
 
 -
 
@@ -9,18 +9,17 @@ Your Name / Your Student Number / Your Login Name / Your Campus FOR SYST24444 Ex
 
 -
 
--
-
 Srdjan Scepanovic / 991 141 264 / serg-sheridan (GIT) scepanos (SHR) / Trafalgar Sheridan FOR SYST24444 Exercise 3
 
 -
 
 Extra:
-- Git account - 
+
+- Git account
 serg-sheridan 
 
-- Git email - 
+- Git email
 scepanos@sheridancollege.ca
 
-- Sheridan login -
+- Sheridan login
 scepanos
