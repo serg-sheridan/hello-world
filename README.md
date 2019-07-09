@@ -15,11 +15,8 @@ Srdjan Scepanovic / 991 141 264 / serg-sheridan (GIT) scepanos (SHR) / Trafalgar
 
 Extra:
 
-- Git account -
-serg-sheridan 
+- Git account - serg-sheridan 
 
-- Git email -
-scepanos@sheridancollege.ca
+- Git email - scepanos@sheridancollege.ca
 
-- Sheridan login -
-scepanos
+- Sheridan login - scepanos
